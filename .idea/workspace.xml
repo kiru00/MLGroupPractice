@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="392e1956-c1eb-43a7-80d4-a2ba34f864d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CodingPractice/StringCoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPractice/StringCoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingPractice/DataFrameCoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPractice/DataFrameCoding.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -24,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -39,6 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -54,10 +56,10 @@
         <option value="$PROJECT_DIR$/CodingPractice/ArrayCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/ListCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/NumpyCoding.py" />
-        <option value="$PROJECT_DIR$/CodingPractice/DataFrameCoding.py" />
         <option value="$PROJECT_DIR$/CodingPractice/PandasCoding.py" />
         <option value="$PROJECT_DIR$/NLP/nlp_first_practice.py" />
         <option value="$PROJECT_DIR$/CodingPractice/StringCoding.py" />
+        <option value="$PROJECT_DIR$/CodingPractice/DataFrameCoding.py" />
       </list>
     </option>
   </component>
@@ -119,7 +121,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StringCoding">
+  <component name="RunManager" selected="Python.DataFrameCoding">
+    <configuration name="DataFrameCoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MLGroupPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPractice/DataFrameCoding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Matplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MLGroupPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,42 +227,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MLGroupPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.test2" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test2 (1)" />
       <item itemvalue="Python.Matplot" />
       <item itemvalue="Python.StringCoding" />
+      <item itemvalue="Python.DataFrameCoding" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataFrameCoding" />
         <item itemvalue="Python.StringCoding" />
         <item itemvalue="Python.Matplot" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.test2 (1)" />
-        <item itemvalue="Python.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +298,28 @@
       <option name="project" value="LOCAL" />
       <updated>1558979140962</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Different Types of Directory">
+      <created>1558979408798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558979408798</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Different Types of Directory">
+      <created>1558979465968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558979465968</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Different Types of Directory TEST">
+      <created>1558979781683</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558979781683</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -312,30 +335,57 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49925596" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Added FaceDetection and ResizeImage and CodingPractice" />
     <MESSAGE value="Added Different Types of Directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Different Types of Directory" />
+    <MESSAGE value="Added Different Types of Directory TEST" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Different Types of Directory TEST" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -449,15 +499,15 @@
     <entry file="file://$PROJECT_DIR$/CodingPractice/ListCoding.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/DataFrameCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
