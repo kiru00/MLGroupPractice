@@ -29,7 +29,7 @@ def thirdReverseMethod(string):
     # 4 Python code to reverse a string
 
 
-# using reversed()
+# using reversed() method
 
 # Function to reverse a string 
 def forthReverseString(string):
